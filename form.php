@@ -4,7 +4,7 @@
 
   <head>
     <meta charset="UTF-8">
-    <title>Задание 6.1</title>
+    <title>Задание 6</title>
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
